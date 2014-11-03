@@ -5,7 +5,6 @@ namespace Vit\Controller;
 use Vit\Model\Show;
 use Symfony\Component\HttpFoundation\Response;
 
-
 class ShowController extends AbstractController
 {
     /**

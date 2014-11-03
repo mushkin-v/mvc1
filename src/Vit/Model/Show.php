@@ -9,5 +9,3 @@ class Show
         return 'Test Show from the model!';
     }
 }
-
-
